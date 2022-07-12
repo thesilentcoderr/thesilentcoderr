@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thesilentcoderr
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently Conatainerization Technology
+- 🌱 I’m currently learning Conatainerization Technology & Pipeline Creation
 - 💞️ I’m looking to collaborate on DevOps projects
 
 <!---
